@@ -25,8 +25,14 @@ Git | GitHub
 📂 Projects  
   
 Project-1: 
-Project-2: Django-based web app  
-Project-3: ML model deployment / data analysis work  
+Face-Recognition-Attendance-System — Python project; attendance system using face recognition. 
+
+Project-2: A Python project; possibly tracking calories / health related App. 
+
+Project-3: 
+wallet_api — A backend API project in Python. 
+
+
 
 
 
