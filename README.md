@@ -40,4 +40,6 @@ wallet_api — A backend API project in Python.
 Email: annamjagadeesh633@gmail.com
 GitHub: [Jagadeeshannam12](https://github.com/Jagadeeshannam12)  
 
+⭐ "Building a safer, smarter digital world one project at a time."
+
 
